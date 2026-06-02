@@ -1,9 +1,7 @@
-## Hi there 👋
-
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25608&api_domain=hackatime.hackclub.com&theme=nightowl&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-![Event-Helper Stat](https://hackatime.hackclub.com/api/v1/badge/U0A719GDKF1/lordilordus123-rgb/Event-Helper)
+# Hi there 👋
 
 ## Coding Stats
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25608&api_domain=hackatime.hackclub.com&theme=nightowl&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
