@@ -7,7 +7,6 @@ on:
 
 jobs:
   update-readme:
-    name: Update README with WakaTime
     runs-on: ubuntu-latest
 
     steps:
@@ -16,8 +15,4 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TIME: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_PROFILE_VIEWS: false
-          SHOW_LANGUAGE: true
           SHOW_PROJECTS: true
