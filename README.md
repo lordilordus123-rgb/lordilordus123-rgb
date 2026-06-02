@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[https://github-readme-stats.hackclub.dev/api/wakatime?username=25608&api_domain=hackatime.hackclub.com&theme=nightowl&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8]
+https://github-readme-stats.hackclub.dev/api/wakatime?username=25608&api_domain=hackatime.hackclub.com&theme=nightowl&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 <!--
 **lordilordus123-rgb/lordilordus123-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
