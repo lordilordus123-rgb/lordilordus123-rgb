@@ -20,3 +20,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_PROJECTS: true
+     
+          SHOW_LOC_CHART: false
