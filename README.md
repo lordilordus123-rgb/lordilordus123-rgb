@@ -4,8 +4,6 @@
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25608&api_domain=hackatime.hackclub.com&theme=nightowl&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -58,7 +56,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/07/2026 21:00:35 UTC
+ Last Updated on 24/07/2026 22:59:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
